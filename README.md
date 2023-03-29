@@ -1,6 +1,3 @@
-# flamingo-discord
-A Simple Discord Bot for the OpenFlamingo Multimodal Model, based on LLaMA-7B.
-
 # Flamingo Discord Bot README
 
 ## Overview
@@ -69,4 +66,9 @@ tbd
 ## credits
 laion, deepmind, gpt4, my boss
 
+## todo
+- test transferability of injected layers with alpaca-native & instruct task
+- beg the upstream devs to fix 8bit inference
+- make the bot less dumb
+- fine-tuning ? ?? ? ?
 
